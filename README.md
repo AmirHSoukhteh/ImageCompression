@@ -40,3 +40,27 @@ By compression-mapping thousands of distinct color shades into just a few optimi
 
 ---
 
+## How to use:
+
+1. Google colab
+    + Download zip file
+    + Upload it to your Google Drive
+    + open ImageCompression with google colab
+
+`Note that you must change path to your own!`
+
+2. Local
++ Clone repository
+```bash
+    git clone REPOSITORY-URL-ADDRESS
+```
++ install requirements
+
+```bash
+pip install -r requirements.txt
+```
++ run ImageCompression.ipynb
+
+`Note that you must change path to your own!`
+
+`comment or delete cell related to google colab !`
